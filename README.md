@@ -1,4 +1,5 @@
 Customer Retention & Churn Analysis Dashboard:
+
 1.Project Overview:
 This project analyzes customer churn patterns using the Telco Customer Churn dataset.
 The objective is to identify churn drivers, customer lifetime trends, and actionable retention strategies — similar to real-world SaaS analytics use cases.
